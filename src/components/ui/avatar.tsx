@@ -49,4 +49,4 @@ const Root = Avatar
 const Img = AvatarImage
 const Fallback = AvatarFallback
 
-export { Root, Img, Fallback }
+export { Root, Img, Fallback, Avatar, AvatarImage, AvatarFallback }
